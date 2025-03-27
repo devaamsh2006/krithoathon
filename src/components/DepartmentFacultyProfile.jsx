@@ -13,7 +13,7 @@ const DepartmentFacultyProfile = () => {
       color: "text-blue-600",
     },
     {
-      name: "Dr. Kousar Nikhath",
+      name: "Dr. A. Kousar Nikhath",
       position: "Faculty Coordinator",
       department: "Dept. of CSE-AIML & IoT",
       photo: f1,
