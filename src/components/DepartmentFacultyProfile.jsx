@@ -20,7 +20,7 @@ const DepartmentFacultyProfile = () => {
       color: 'text-green-600'
     },
     {
-      name: 'Dr. Sarah Kumar',
+      name: 'Mr. Bhupesh Deka',
       position: 'Faculty Coordinator', 
       department: 'Computer Science- AIML & IoT',
       photo: f3,
