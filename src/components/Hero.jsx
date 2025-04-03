@@ -97,12 +97,12 @@ const Hero = () => {
               delay={150}
               animateBy="words"
               direction="top"
-              className="text-2xl mb-8 text-center"
+              className="text-2xl mb-8 text-center heading"
             />
           </div>
         </div>
       </div>
-
+    <a href="https://unstop.com/o/JyBkoDH?lb=bSLJ0FFA&utm_medium=Share&utm_source=WhatsApp">       
       <button
         className={`mt-6 sm:mt-8 md:mt-10 px-6 sm:px-8 py-2 sm:py-3 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full text-base sm:text-lg md:text-xl font-semibold transition-all duration-700 delay-800 ${
           isVisible
@@ -112,6 +112,7 @@ const Hero = () => {
       >
         Register Now
       </button>
+    </a>   
 
       <style jsx="true">{`
         @keyframes gradient {

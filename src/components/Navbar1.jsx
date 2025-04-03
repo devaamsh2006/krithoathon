@@ -51,11 +51,14 @@ const Navbar1 = () => {
         </div>
       ))}
 
-      <button
-        className="ml-auto hidden lg:block px-5 py-2 text-white bg-gradient-to-r from-blue-500 to-green-400 rounded-md rounded-xl hover:from-green-400 hover:to-blue-500 transition-transform"
-      >
-        Register
-      </button>
+<a href="https://unstop.com/o/JyBkoDH?lb=bSLJ0FFA&utm_medium=Share&utm_source=WhatsApp">
+  <button
+    className="ml-auto hidden lg:block px-5 py-2 text-white bg-gradient-to-r from-blue-500 to-green-400 rounded-xl hover:from-green-400 hover:to-blue-500 transition-transform"
+  >
+    Register
+  </button>
+</a>
+
     </nav>
   );
 };
