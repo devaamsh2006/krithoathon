@@ -47,7 +47,7 @@ function Footer() {
               </div>
             </a>
 
-            <a href="mailto:example@email.com" className="group">
+            <a href="mailto:krithomedhvnrvjiet@gmail.com" className="group">
               <div className="w-12 h-12 flex items-center justify-center rounded-full bg-gradient-to-br from-blue-600 to-blue-500 shadow-lg transition-transform duration-300 transform group-hover:scale-110">
                 <svg className="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                   <path fillRule="evenodd" d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2Zm16 4-8 5-8-5v10h16V8ZM4 6v-.01l8 5 8-5V6H4Z" clipRule="evenodd" />
