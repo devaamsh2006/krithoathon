@@ -78,7 +78,7 @@ function TimeLine() {
                             <div className="w-1/2 pr-2 md:pr-8">
                                 <div className="bg-gray-800 rounded-xl p-3 md:p-6 shadow-xl">
                                     <h3 className="text-lg md:text-2xl font-bold text-red-400">Prize Distribution</h3>
-                                    <p className="text-xs md:text-sm text-gray-300 mt-1 md:mt-2">Winners receive prizes and recognition on April 26th, 2025.</p>
+                                    <p className="text-xs md:text-sm text-gray-300 mt-1 md:mt-2">Winners will receive prizes from a prize pool of ₹75,000 and recognition on April 26th, 2025.</p>
                                 </div>
                             </div>
                             <div className="absolute left-1/2 transform -translate-x-1/2">
