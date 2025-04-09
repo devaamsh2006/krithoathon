@@ -1,4 +1,4 @@
-import k3 from "../assets/k3.jpg";
+import k4 from "../assets/k4.jpg";
 
 const About = () => {
   return (
@@ -20,7 +20,7 @@ const About = () => {
         </p>
         <div className="flex justify-center align-center">
           <img
-            src={k3}
+            src={k4}
             alt="Krithoathon 3.0 Poster"
             className="rounded-2xl shadow-lg scale-75 hover:scale-90 transition-transform duration-300"
             width="80%"
